@@ -7,7 +7,7 @@
 ## 环境
 
 - ***系统***：`CentOS Linux release 8.0.1905 (Core)`
-- ***IDE***：`Vim`
+- ***IDE***：`VS Code` ————> remote development ssh连接云服务器开发
 - ***编译器***：`gcc（8.3.1 20191121 (Red Hat 8.3.1-5)）`
 
 ## 内容板块
