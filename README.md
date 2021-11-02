@@ -1,4 +1,4 @@
-# cxx-primer-notes
+# cpp-primer-notes
 
 ## 简介
 
