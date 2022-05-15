@@ -6,9 +6,9 @@
 
 ## 环境
 
-- ***系统***：`CentOS Linux release 8.0.1905 (Core)`
-- ***IDE***：` Visual Studio Code` ————> remote development ssh连接云服务器开发
-- ***编译器***：`gcc（8.3.1 20191121 (Red Hat 8.3.1-5)）`
+- ***系统***：`Ubuntu 20.04`
+- ***IDE***：` Visual Studio Code` ————> remote development ssh连接 Ubuntu20.04 开发
+- ***编译器***：`gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0`
 
 ## 内容板块
 
